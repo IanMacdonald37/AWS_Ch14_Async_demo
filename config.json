@@ -1,0 +1,4 @@
+{
+  "QueueUrl": "https://sqs.us-east-1.amazonaws.com/590183983758/processed-orders",
+  "Bucket": "processed-orders-chapter14demo"
+}
